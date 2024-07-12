@@ -1,0 +1,11 @@
+.App {
+  direction: rtl;
+  background-color: white;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+  background: #fde9f8;
+}
